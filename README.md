@@ -105,7 +105,7 @@
 
 ### 实际的CT图像
 
-![ezgif.com-gif-maker (1)](assets/ezgif.com-gif-maker (1).gif)
+![ezgif.com-gif-maker_1](assets/ezgif.com-gif-maker_1.gif)
 
 生成的CT图像
 
@@ -119,9 +119,9 @@
 
 ![24](assets/24.png)
 
-![ezgif.com-gif-maker (3)](assets/ezgif.com-gif-maker (3).gif)
+![ezgif.com-gif-maker_3](assets/ezgif.com-gif-maker_3.gif)
 
-![ezgif.com-gif-maker (2)](assets/ezgif.com-gif-maker (2).gif)
+![ezgif.com-gif-maker_2](assets/ezgif.com-gif-maker_2.gif)
 
 ## 四、总结
 
