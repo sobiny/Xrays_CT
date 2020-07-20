@@ -39,11 +39,11 @@
 
 调通接口后的官网原参数生成的DRR结果：
 
-<img src="三维重建总结.assets/1595145745879.png" style="zoom:50%;" />
+<img src="README.assets/1595145745879.png" alt="1595145745879" style="zoom:50%;" />
 
 目前调试过程中，最优的DRR效果如下：
 
-![image-20200719174534549](assets/image-20200719174534549.png)
+![image-20200719174534549](README.assets/image-20200719174534549.png)
 
 仍存在的问题：
 
